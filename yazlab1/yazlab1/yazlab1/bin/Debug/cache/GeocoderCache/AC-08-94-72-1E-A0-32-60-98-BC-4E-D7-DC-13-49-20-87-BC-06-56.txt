@@ -1,0 +1,312 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "6QXM+PM3 Efir/Simav/Kütahya, Turkey",
+      "global_code" : "8GFC6QXM+PM3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6QXM+PM",
+               "short_name" : "6QXM+PM",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Efir",
+               "short_name" : "Efir",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Simav",
+               "short_name" : "Simav",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "6QXM+PM Efir/Simav/Kütahya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.249375,
+                  "lng" : 28.78425
+               },
+               "southwest" : {
+                  "lat" : 39.24925,
+                  "lng" : 28.784125
+               }
+            },
+            "location" : {
+               "lat" : 39.2492708,
+               "lng" : 28.7841797
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.25066148029151,
+                  "lng" : 28.78553648029149
+               },
+               "southwest" : {
+                  "lat" : 39.24796351970851,
+                  "lng" : 28.7828385197085
+               }
+            }
+         },
+         "place_id" : "GhIJg-wGG-ifQ0AR5a81AMDIPEA",
+         "plus_code" : {
+            "compound_code" : "6QXM+PM Efir/Simav/Kütahya, Turkey",
+            "global_code" : "8GFC6QXM+PM"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Efir",
+               "short_name" : "Efir",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Simav",
+               "short_name" : "Simav",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Efir/Simav/Kütahya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.268509,
+                  "lng" : 28.8454481
+               },
+               "southwest" : {
+                  "lat" : 39.172643,
+                  "lng" : 28.7726739
+               }
+            },
+            "location" : {
+               "lat" : 39.2256551,
+               "lng" : 28.8014121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.268509,
+                  "lng" : 28.8454481
+               },
+               "southwest" : {
+                  "lat" : 39.172643,
+                  "lng" : 28.7726739
+               }
+            }
+         },
+         "place_id" : "ChIJuTi-1ngkyBQRHoMW0VuIczw",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "43502",
+               "short_name" : "43502",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Simav",
+               "short_name" : "Simav",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "43502 Simav/Kütahya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2724429,
+                  "lng" : 28.827464
+               },
+               "southwest" : {
+                  "lat" : 39.2053771,
+                  "lng" : 28.676482
+               }
+            },
+            "location" : {
+               "lat" : 39.2444687,
+               "lng" : 28.7314618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2724429,
+                  "lng" : 28.827464
+               },
+               "southwest" : {
+                  "lat" : 39.2053771,
+                  "lng" : 28.676482
+               }
+            }
+         },
+         "place_id" : "ChIJE-OWKpAmyBQRYxlctEHk1Ro",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Simav",
+               "short_name" : "Simav",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Simav/Kütahya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5436679,
+                  "lng" : 29.233993
+               },
+               "southwest" : {
+                  "lat" : 38.855302,
+                  "lng" : 28.6131111
+               }
+            },
+            "location" : {
+               "lat" : 39.2069032,
+               "lng" : 28.9062794
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5436679,
+                  "lng" : 29.233993
+               },
+               "southwest" : {
+                  "lat" : 38.855302,
+                  "lng" : 28.6131111
+               }
+            }
+         },
+         "place_id" : "ChIJ9aGBRjM6yBQRDLjIX1kvnbY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kütahya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9070431,
+                  "lng" : 30.4621429
+               },
+               "southwest" : {
+                  "lat" : 38.79054,
+                  "lng" : 28.603224
+               }
+            },
+            "location" : {
+               "lat" : 39.358137,
+               "lng" : 29.6035495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9070431,
+                  "lng" : 30.4621429
+               },
+               "southwest" : {
+                  "lat" : 38.79054,
+                  "lng" : 28.603224
+               }
+            }
+         },
+         "place_id" : "ChIJcd7mch4DyRQR2MtOz3EXbg8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

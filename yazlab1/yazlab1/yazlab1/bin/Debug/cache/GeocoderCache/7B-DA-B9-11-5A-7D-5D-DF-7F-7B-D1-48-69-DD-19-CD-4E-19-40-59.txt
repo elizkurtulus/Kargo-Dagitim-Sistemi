@@ -1,0 +1,440 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "783V+QX5 Şirinköy/Biga/Çanakkale, Turkey",
+      "global_code" : "8GG9783V+QX5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "783V+QX",
+               "short_name" : "783V+QX",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Şirinköy",
+               "short_name" : "Şirinköy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Biga",
+               "short_name" : "Biga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "783V+QX Şirinköy/Biga/Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2545,
+                  "lng" : 27.345
+               },
+               "southwest" : {
+                  "lat" : 40.254375,
+                  "lng" : 27.344875
+               }
+            },
+            "location" : {
+               "lat" : 40.2543766,
+               "lng" : 27.3449707
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2557864802915,
+                  "lng" : 27.3462864802915
+               },
+               "southwest" : {
+                  "lat" : 40.25308851970851,
+                  "lng" : 27.3435885197085
+               }
+            }
+         },
+         "place_id" : "GhIJEO-UaY8gREARBpTy_09YO0A",
+         "plus_code" : {
+            "compound_code" : "783V+QX Şirinköy/Biga/Çanakkale, Turkey",
+            "global_code" : "8GG9783V+QX"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Şirinköy İç Yolu",
+               "short_name" : "Şirinköy İç Yolu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Şirinköy",
+               "short_name" : "Şirinköy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Biga",
+               "short_name" : "Biga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17200",
+               "short_name" : "17200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Şirinköy İç Yolu, 17200 Şirinköy/Biga/Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2543741,
+                  "lng" : 27.3455134
+               },
+               "southwest" : {
+                  "lat" : 40.2540217,
+                  "lng" : 27.344818
+               }
+            },
+            "location" : {
+               "lat" : 40.2541801,
+               "lng" : 27.3451864
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2555468802915,
+                  "lng" : 27.3465146802915
+               },
+               "southwest" : {
+                  "lat" : 40.25284891970851,
+                  "lng" : 27.3438167197085
+               }
+            }
+         },
+         "place_id" : "ChIJEa93pBCwthQR8B7dau5TaGU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Şirinköy",
+               "short_name" : "Şirinköy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Şirinköy",
+               "short_name" : "Şirinköy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Biga",
+               "short_name" : "Biga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17200",
+               "short_name" : "17200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Şirinköy, 17200 Şirinköy/Biga/Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.25856,
+                  "lng" : 27.347375
+               },
+               "southwest" : {
+                  "lat" : 40.251314,
+                  "lng" : 27.340174
+               }
+            },
+            "location" : {
+               "lat" : 40.253422,
+               "lng" : 27.345228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.25856,
+                  "lng" : 27.347375
+               },
+               "southwest" : {
+                  "lat" : 40.251314,
+                  "lng" : 27.340174
+               }
+            }
+         },
+         "place_id" : "ChIJ0_-PUBCwthQROrFlY1BxC5Y",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17200",
+               "short_name" : "17200",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Biga",
+               "short_name" : "Biga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "17200 Biga/Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2663489,
+                  "lng" : 27.35971
+               },
+               "southwest" : {
+                  "lat" : 40.241689,
+                  "lng" : 27.327883
+               }
+            },
+            "location" : {
+               "lat" : 40.251774,
+               "lng" : 27.3469574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2663489,
+                  "lng" : 27.35971
+               },
+               "southwest" : {
+                  "lat" : 40.241689,
+                  "lng" : 27.327883
+               }
+            }
+         },
+         "place_id" : "ChIJNeqaSxewthQRO5e1TxWaSAk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Şirinköy",
+               "short_name" : "Şirinköy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Biga",
+               "short_name" : "Biga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Şirinköy/Biga/Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.262196,
+                  "lng" : 27.358459
+               },
+               "southwest" : {
+                  "lat" : 40.235207,
+                  "lng" : 27.3280919
+               }
+            },
+            "location" : {
+               "lat" : 40.2501536,
+               "lng" : 27.3440192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.262196,
+                  "lng" : 27.358459
+               },
+               "southwest" : {
+                  "lat" : 40.235207,
+                  "lng" : 27.3280919
+               }
+            }
+         },
+         "place_id" : "ChIJj8NmvxCwthQRCrKIjL--Cek",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biga",
+               "short_name" : "Biga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biga/Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.474989,
+                  "lng" : 27.533906
+               },
+               "southwest" : {
+                  "lat" : 40.067783,
+                  "lng" : 26.902848
+               }
+            },
+            "location" : {
+               "lat" : 40.2578454,
+               "lng" : 27.2205771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.474989,
+                  "lng" : 27.533906
+               },
+               "southwest" : {
+                  "lat" : 40.067783,
+                  "lng" : 26.902848
+               }
+            }
+         },
+         "place_id" : "ChIJAUGtQvaythQRkLKZ6Iw014o",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.762184,
+                  "lng" : 27.540341
+               },
+               "southwest" : {
+                  "lat" : 39.453307,
+                  "lng" : 25.665307
+               }
+            },
+            "location" : {
+               "lat" : 40.0510104,
+               "lng" : 26.9852422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.762184,
+                  "lng" : 27.540341
+               },
+               "southwest" : {
+                  "lat" : 39.453307,
+                  "lng" : 25.665307
+               }
+            }
+         },
+         "place_id" : "ChIJq7A1iKJHsBQRVemXvUVtCwQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEa93pBCwthQR8B7dau5TaGU",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEa93pBCwthQR8B7dau5TaGU",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.2541571,
+               "lng" : 27.3451333
+            },
+            "southwest" : {
+               "lat" : 40.2541571,
+               "lng" : 27.3451333
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Şirinköy İç Yolu, 17200 Şirinköy/Biga/Çanakkale, Turkey",
+               "end_location" : {
+                  "lat" : 40.2541571,
+                  "lng" : 27.3451333
+               },
+               "start_address" : "Şirinköy İç Yolu, 17200 Şirinköy/Biga/Çanakkale, Turkey",
+               "start_location" : {
+                  "lat" : 40.2541571,
+                  "lng" : 27.3451333
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.2541571,
+                        "lng" : 27.3451333
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eŞirinköy İç Yolu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ocutFaz{eD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.2541571,
+                        "lng" : 27.3451333
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ocutFaz{eD"
+         },
+         "summary" : "Şirinköy İç Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

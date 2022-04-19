@@ -1,0 +1,547 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "C5H5+474 Konak/İzmir, Turkey",
+      "global_code" : "8GC9C5H5+474"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "İşçiler Caddesi",
+               "short_name" : "İşçiler Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Konak",
+               "short_name" : "Konak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35170",
+               "short_name" : "35170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, İşçiler Cd. No:114, 35170 Konak/İzmir, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.42761,
+               "lng" : 27.157643
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4289589802915,
+                  "lng" : 27.15899198029151
+               },
+               "southwest" : {
+                  "lat" : 38.42626101970851,
+                  "lng" : 27.1562940197085
+               }
+            }
+         },
+         "place_id" : "ChIJf_yiSGLYuxQR1C7HuzicClM",
+         "plus_code" : {
+            "compound_code" : "C5H5+23 Konak/İzmir, Turkey",
+            "global_code" : "8GC9C5H5+23"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C5H5+47",
+               "short_name" : "C5H5+47",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Konak",
+               "short_name" : "Konak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C5H5+47 Konak/İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.427875,
+                  "lng" : 27.15825
+               },
+               "southwest" : {
+                  "lat" : 38.42775,
+                  "lng" : 27.158125
+               }
+            },
+            "location" : {
+               "lat" : 38.4277735,
+               "lng" : 27.1582031
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4291614802915,
+                  "lng" : 27.1595364802915
+               },
+               "southwest" : {
+                  "lat" : 38.42646351970851,
+                  "lng" : 27.1568385197085
+               }
+            }
+         },
+         "place_id" : "GhIJOEw0SME2Q0ARNaCU_38oO0A",
+         "plus_code" : {
+            "compound_code" : "C5H5+47 Konak/İzmir, Turkey",
+            "global_code" : "8GC9C5H5+47"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1206. Sokak",
+               "short_name" : "1206. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Konak",
+               "short_name" : "Konak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35170",
+               "short_name" : "35170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, 1206. Sk. No:24, 35170 Konak/İzmir, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.4275837,
+               "lng" : 27.1588581
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4289326802915,
+                  "lng" : 27.1602070802915
+               },
+               "southwest" : {
+                  "lat" : 38.4262347197085,
+                  "lng" : 27.1575091197085
+               }
+            }
+         },
+         "place_id" : "EjdZZW5pxZ9laGlyLCAxMjA2LiBTay4gTm86MjQsIDM1MTcwIEtvbmFrL8Swem1pciwgVHVya2V5IhoSGAoUChIJ7-v__mLYuxQR6e4jqjSS2_wQGA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1212/2. Sokak",
+               "short_name" : "1212/2. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Konak",
+               "short_name" : "Konak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35170",
+               "short_name" : "35170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, 1212/2. Sk., 35170 Konak/İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.427846,
+                  "lng" : 27.158718
+               },
+               "southwest" : {
+                  "lat" : 38.427504,
+                  "lng" : 27.15863
+               }
+            },
+            "location" : {
+               "lat" : 38.4276716,
+               "lng" : 27.1586549
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.42902398029149,
+                  "lng" : 27.1600229802915
+               },
+               "southwest" : {
+                  "lat" : 38.4263260197085,
+                  "lng" : 27.1573250197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4_XOVWLYuxQROLSNVldsqko",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yenişehir",
+               "short_name" : "Yenişehir",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Konak",
+               "short_name" : "Konak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35170",
+               "short_name" : "35170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yenişehir, 35170 Konak/İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4311869,
+                  "lng" : 27.1715301
+               },
+               "southwest" : {
+                  "lat" : 38.423238,
+                  "lng" : 27.1567089
+               }
+            },
+            "location" : {
+               "lat" : 38.4255716,
+               "lng" : 27.1632389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4311869,
+                  "lng" : 27.1715301
+               },
+               "southwest" : {
+                  "lat" : 38.423238,
+                  "lng" : 27.1567089
+               }
+            }
+         },
+         "place_id" : "ChIJw-Ky8XzYuxQR4Epm5j6dniA",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "35170",
+               "short_name" : "35170",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Konak",
+               "short_name" : "Konak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "35170 Konak/İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.431857,
+                  "lng" : 27.1715511
+               },
+               "southwest" : {
+                  "lat" : 38.423178,
+                  "lng" : 27.156628
+               }
+            },
+            "location" : {
+               "lat" : 38.4255716,
+               "lng" : 27.1632389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.431857,
+                  "lng" : 27.1715511
+               },
+               "southwest" : {
+                  "lat" : 38.423178,
+                  "lng" : 27.156628
+               }
+            }
+         },
+         "place_id" : "ChIJRQok8nzYuxQRGiUDnSh62V8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Konak",
+               "short_name" : "Konak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Konak/İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4507611,
+                  "lng" : 27.189448
+               },
+               "southwest" : {
+                  "lat" : 38.3930371,
+                  "lng" : 27.0688739
+               }
+            },
+            "location" : {
+               "lat" : 38.4144805,
+               "lng" : 27.1441183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4507611,
+                  "lng" : 27.189448
+               },
+               "southwest" : {
+                  "lat" : 38.3930371,
+                  "lng" : 27.0688739
+               }
+            }
+         },
+         "place_id" : "ChIJ60jO_uLYuxQRKmMzDImLpa8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5452371,
+                  "lng" : 27.304485
+               },
+               "southwest" : {
+                  "lat" : 38.290113,
+                  "lng" : 26.8549491
+               }
+            },
+            "location" : {
+               "lat" : 38.423734,
+               "lng" : 27.142826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5452371,
+                  "lng" : 27.304485
+               },
+               "southwest" : {
+                  "lat" : 38.290113,
+                  "lng" : 26.8549491
+               }
+            }
+         },
+         "place_id" : "ChIJzcpip2LYuxQR_uicpaG7jGI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.385446,
+                  "lng" : 28.493051
+               },
+               "southwest" : {
+                  "lat" : 37.8128519,
+                  "lng" : 26.2302011
+               }
+            },
+            "location" : {
+               "lat" : 38.3591693,
+               "lng" : 27.2676116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.385446,
+                  "lng" : 28.493051
+               },
+               "southwest" : {
+                  "lat" : 37.8128519,
+                  "lng" : 26.2302011
+               }
+            }
+         },
+         "place_id" : "ChIJ-WH1ACuduRQR49dv6TmTrs4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
